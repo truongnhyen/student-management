@@ -14,4 +14,6 @@ COMMIT CODE: phải có dòng trống dưới title
 Ex:
 Init commit
 
-- Add gitignore fileå
+- Add gitignore file
+
+- git push -u origin master
