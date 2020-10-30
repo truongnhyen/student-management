@@ -1,0 +1,17 @@
+Tim hieu Memoization
+
+Unit Test: su dung:
++ Mochajs
++ Chaijs
+
+
+Add folder từ local lên git
+- cd tới folder
+- git init
+Tao file '.gitignore' trong thu muc root (neu cần)
+- git remote add origin https://github.com/truongnhyen/student-management.git (link folder git remote để add vào)
+COMMIT CODE: phải có dòng trống dưới title
+Ex:
+Init commit
+
+- Add gitignore fileå
